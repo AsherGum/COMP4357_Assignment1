@@ -1,0 +1,18 @@
+.quoteBox {
+    padding: 20px;
+    width: 50vw;
+    margin: 5px 0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+body{
+    padding: 24px;
+}
+#save {
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+}

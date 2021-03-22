@@ -1,0 +1,48 @@
+.body {
+    margin: 5% 5%;
+}
+
+.body > * {
+    margin: 10px 0;
+}
+.quote {
+    width: 300px;
+    height: 10vh;
+}
+
+.author {
+    width: 150px;
+    height: 5vh;
+}
+
+div > * {
+  margin-right: 10px;
+}
+
+section {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gainsboro;
+    width: max-content;
+    padding: 25px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.tools > * {
+    margin-right: 10px;
+}
+
+#save {
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+}
+
+#confirm {
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px;
+    background-color: green;
+    color: white;
+}
